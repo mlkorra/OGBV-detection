@@ -42,6 +42,9 @@ optional arguments:
   --eval EVAL           evaluate on either [test,dev] set
 
 ```
+### HF Bert Model for Task-B
+[Check the HF Model here!](https://huggingface.co/mlkorra/OGBV-gender-bert-hi-en/)
+
 
 ## Task A - Aggresive Text Classification
 
